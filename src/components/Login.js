@@ -14,7 +14,7 @@ const Login = () => {
     <LoginContainer>
       <LoginBody>
         <ForumIcon style={{ fontSize: 100, color: "var(--main-color)" }} />
-        <h1>Sign in to React Super Chat 2.0</h1>
+        <h1>Sign in to ChitChat</h1>
         <p>Inspired by Slack</p>
         <Button onClick={handleSignin} variant="contained">
           Continue with Google
